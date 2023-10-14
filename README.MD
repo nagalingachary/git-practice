@@ -16,7 +16,14 @@ feature-3,commit-2 <br />
 feature-3,commit-2 <br />
 feature-3,commit-4 <br />
 
+<<<<<<< HEAD
 ### feature-5 ###
 feature-5,commit-1 <br />
 feature-5,commit-2 <br />
 feature-5,commit-3 <br />
+=======
+### feature-4 ####
+feature-4,commit-1 <br />
+feature-4,commit-2 <br />
+feature-4,commit-3 <br />
+>>>>>>> master
